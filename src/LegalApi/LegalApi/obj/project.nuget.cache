@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wb2CViwFRsg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kiko-\\Desktop\\Nova pasta\\testeDocker\\src\\LegalApi\\LegalApi\\LegalApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kiko-\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\kiko-\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\kiko-\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
